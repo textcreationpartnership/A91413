@@ -1,0 +1,150 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-stylesheet type="text/css" href="http://www.textcreationpartnership.org/docs/code/pfs.css"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>A worthy speech spoken in Parliament, by Mr. Pym, concerning evill counsellors about his Maiestie. Also manifesting the particular advantages that would redound to his kingdome, if the said evill councellors were removed from about his majesty.</title>
+            <author>Pym, John, 1584-1643.</author>
+         </titleStmt>
+         <extent>Approx. 7KB of XML-encoded text transcribed from 5 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2016-02">2016-02 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A91413</idno><idno type="EEBO-CITATION">99872726</idno>
+  <idno type="VID">156206</idno>
+  <idno type="EEBO-PROQUEST">2248515537</idno>
+  
+            <idno type="STC">Wing P4305</idno>
+            <idno type="STC">Thomason E127_22</idno>
+            <idno type="STC">ESTC R4810</idno>
+            <idno type="PROQUEST">99872726</idno>
+            <availability><p>This keyboarded and encoded edition of the work described above is co-owned by the
+    institutions providing financial support to the Early English Books Online Text Creation
+    Partnership. This text is available for reuse, according to the terms of <ref target="https://creativecommons.org/publicdomain/zero/1.0/"> Creative Commons 0 1.0 Universal
+    licence</ref>. The text can be copied, modified, distributed and performed, even for commercial
+    purposes, all without asking permission.</p></availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online text creation partnership.</title>
+         </seriesStmt>
+         <notesStmt><relatedItem type="facs" target="https://data.historicaltexts.jisc.ac.uk/view?pubId=eebo-99872726e"/>
+            <note>(EEBO-TCP ; phase 2, no. A91413)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 156206)</note>
+            <note>Images scanned from microfilm: (Thomason Tracts ; 22:E127[22])</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>A worthy speech spoken in Parliament, by Mr. Pym, concerning evill counsellors about his Maiestie. Also manifesting the particular advantages that would redound to his kingdome, if the said evill councellors were removed from about his majesty.</title>
+                  <author>Pym, John, 1584-1643.</author>
+               </titleStmt>
+               <extent>[8] p.   </extent>
+               <publicationStmt>
+                  <publisher>Printed by T. F. for I. H.,</publisher>
+                  <pubPlace>London :</pubPlace>
+                  <date>Novemb. 17. 1642.</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Annotation on Thomason copy: "Nouemb: 17".</note>
+                  <note>Signatures: A⁴.</note>
+                  <note>Reproduction of the original in the British Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,363 texts created during Phase 1 of the project have been released into the public domain as of 1 January 2015. Anyone can now take and use these texts for their own purposes, but we respectfully request that due credit and attribution is given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Full documentation of the original data capture process is available from the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.
+   All versions of the texts are now archived and freely available for download. See <ref target="https://textcreationpartnership.org/faq/#faq05">the TCP Download FAQ</ref>
+   for detailed information. The TEI P5 versions are also freely available from the <ref target="https://github.com/textcreationpartnership">TCP Github repository</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp" matchPattern="([0-9\-]+):([0-9IVX]+)" replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char" matchPattern="(.+)" replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term type="personal_name">Charles --  I, --  King of England, 1600-1649 --  Early works to 1800.</term>
+               <term type="geographic_name">Great Britain --  Politics and government --  1642-1649 --  Early works to 1800.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2014-06 </date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images </change>
+         <change>
+            <date>2014-08 </date>
+            <label>Maria Cecilia Caride </label>Sampled and proofread </change>
+         <change>
+            <date>2014-08 </date>
+            <label>Maria Cecilia Caride</label>Text and markup reviewed and edited </change>
+         <change>
+            <date>2015-03 </date>
+            <label>pfs</label>Batch review (QC) and XML conversion </change>
+      <change><date>2021-05 </date><label>lb</label>TEI P5 conversion </change></revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <front>
+         <div type="title_page">
+            <pb facs="tcp:156206:1"/>
+            <p>A Worthy Speech Spoken in Parliament, by Mr. PYM, <hi>Concerning evill Counsellors about his</hi> MAIESTIE.</p>
+            <p>Also manifesting the particular ad<g ref="char:EOLhyphen"/>vantages that would redound to this Kingdome, if the said evill Councellors were removed from about his Majesty.</p>
+            <q>
+               <bibl>
+                  <hi>SAM. 10.3.</hi>
+               </bibl>
+               <p>Evill Councellors purchase hatred to the Prince, where good might happen.</p>
+            </q>
+            <p>
+               <hi>LONDON</hi> Printed by <hi>T. F.</hi> for <hi>I. H. Novemb.</hi> 17. 1642.</p>
+         </div>
+      </front>
+      <body>
+         <div type="speech">
+            <pb facs="tcp:156206:2"/>
+            <pb facs="tcp:156206:2"/>
+            <head>A worthy SPEECH spoken in PARLIAMENT.</head>
+            <p>
+               <seg rend="decorInit">F</seg>Irst, That the dangers that comes to a State by ill coun<g ref="char:EOLhyphen"/>sels, that they are the most pernicious dangers that can come to a State, it is usef<gap reason="illegible" resp="#murp" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ll to compare Politique bodies with the Naturall, the naturall Body is in<g ref="char:EOLhyphen"/>dangered divers wayes either by outward violence, and that may be fore-seene and pre<g ref="char:EOLhyphen"/>vented, or by lesse appearing maladies which growes upon the Body by the distemper of the Ayre, immoderate exercise, dyet, &amp;c. and when the causes of the Disease are cleare the Remedy is easily applyed, but diseases which proceed from the inward parts of the Liver, the Heart, or the Braine; it is a hard thing to apply cure to such diseases: ill Councels
+<pb facs="tcp:156206:3"/>they are of that nature, <hi>&amp;c.</hi> For the mischiefes that come by evill Counsels corrupt the vi<g ref="char:EOLhyphen"/>tall parts, and overthrow the administra<g ref="char:EOLhyphen"/>tion of publicke Government <hi>&amp;c.</hi> Second<g ref="char:EOLhyphen"/>ly, that there have been lately, and are still ill Counsels here in this Kingdome, and a<g ref="char:EOLhyphen"/>bout the King; that there hath been late<g ref="char:EOLhyphen"/>ly you will not doubt, when the maine course of Government hath been so imploy<g ref="char:EOLhyphen"/>ed, as Popery thereby hath been so main<g ref="char:EOLhyphen"/>tained, the Lawes subverted, and no distin<g ref="char:EOLhyphen"/>ction between Justice and injustice, and that there is still reason to doubt is appa<g ref="char:EOLhyphen"/>rant by courses taken to advance mischievous designes, but that His Majesties wisedome and goodnesse kept out of the Court, so the principall and most mischievous designes have been practised by such as have neer ac<g ref="char:EOLhyphen"/>cesse unto His Majesty. Thirdly, that the ill Counsels of this time are in their owne natures more mischievous and more dan<g ref="char:EOLhyphen"/>gerous then the ill Counsels of former times, former Counsels have b een to please the King, and Prince, to raise up Prerogative, if it had gone no further, it had brought
+<pb facs="tcp:156206:3"/>many miseries, but not to ruin and distructi<g ref="char:EOLhyphen"/>on; But the ill Counsells of this time were to alter Religion and Law, therefore more mischievous in their own nature, then the ill Counsels of former times. Fourthly, that these ill Counsels proceeded from a spirit and inclination to Popery, and have had a de<g ref="char:EOLhyphen"/>pendancie on Popery, the Religion of the Pa<g ref="char:EOLhyphen"/>pist, is a Religion inconputable to any o<g ref="char:EOLhyphen"/>ther Religion, distructive to all others, and doth not indure any thing that doth oppose it, whosoever doth withstand their Religion if they have Power, they bring them to Ru<g ref="char:EOLhyphen"/>ine, there are other Religions, but not so di<g ref="char:EOLhyphen"/>structive as Popery is, for the Principals of Popery are distructive to all States, and Per<g ref="char:EOLhyphen"/>sons that oppose it; with the progresse of this mischievous Counsell, they provided Counsellors that may execute their own de<g ref="char:EOLhyphen"/>signes, and to turne all Counsels to their owne ends: And you finde, that now in <hi>Jreland,</hi> that those designes that have been upon all the three Kingdomes doe end in a Warre for the maintainance of Popery in <hi>Jreland.</hi> Fiftly, that unlesse these ill Coun<g ref="char:EOLhyphen"/>sells
+<pb facs="tcp:156206:4"/>be changed, as long as they <gap reason="illegible" resp="#murp" extent="2 letters">
+                  <desc>••</desc>
+               </gap>ntinue, it is impossible that any assistants, ayd, or advice that the Parliament can take to reform, will be effectuall, for the publicke those that are the instruments of State they put things into action, in good Order, but if acted by evill men, while these Counsells are on foot we can expect no good.</p>
+            <p> 6.ly. That this is the most proper time to desire of his Majesty, the alteration and change of Evill Councellors, because the Common<g ref="char:EOLhyphen"/>wealth is brought into distempers by them, and so exhausted, that we can endure no longer. The next reason why we cānot admit of them, is to shew our love and fidelity to the King, in great contributions and ad<g ref="char:EOLhyphen"/>ventures; when God doth imploy his ser<g ref="char:EOLhyphen"/>vants, he doth give them some promise to rouze up their spirits, this is the time where<g ref="char:EOLhyphen"/>in the Subjects are to save the Kingdome, with the hazard of their lives and fortunes; and therefore expect from his Majesty in a more large and bountifull manner then at other times, as we have weaknesse at home, so we ought to discerne the actions abroad,
+<pb facs="tcp:156206:4"/>where great provision is made, and a care<g ref="char:EOLhyphen"/>lesnesse and improvid<gap reason="illegible" resp="#murp" extent="2 letters">
+                  <desc>••</desc>
+               </gap>ce herein, when our Neighbours are <gap reason="illegible" resp="#murp" extent="1 letter">
+                  <desc>•</desc>
+               </gap>o provided, and have so great Fleets at Sea, will open a sudden ruine and destruction, before we can be prepared, and therfore now is the fittest time to move the King.</p>
+            <p>And lastly, that this alteration of Coun<g ref="char:EOLhyphen"/>cels, will bring great advantage to the King in his owne Designes, in all our Actions, our prayers unto God should be, that his Name might be glorified, so our Petitions to his Majesty, should usher on our profit and ad<g ref="char:EOLhyphen"/>vantage to him.</p>
+            <p n="1">1. A discouragement to the Rebels, a great part of their confidence is in the evill Coun<g ref="char:EOLhyphen"/>cellers at home, as by examinations appeareth.</p>
+            <p n="2">The second advantage, it is great incou<g ref="char:EOLhyphen"/>ragement to the Kings good Subjects at home who hazard their lives, and give aid and con<g ref="char:EOLhyphen"/>tribution, to have things governed for the publique good, it will make men affraid to preferre servants to the King, that are evill Councellors, when they shall come to an ex<g ref="char:EOLhyphen"/>amination of a Triennall Parliament, for ma<g ref="char:EOLhyphen"/>ny
+<pb facs="tcp:156206:5"/>times servants are preferred to Princes, for advantage to Forraigne States, next, this will put an Answer into the Kings mouth, against all importunates, that he is to preferre none, but such as will be approved on by Parlia<g ref="char:EOLhyphen"/>ment; those that are honourable and most ingenious, are aptest to be troubled in this kind, and not to deny; therefore the King may answer, he hath promised his Parlia<g ref="char:EOLhyphen"/>ment not to admit of any but by advice in Parliament, this will answer them all.</p>
+            <p n="3">Next advantage, it makes us fitter to en<g ref="char:EOLhyphen"/>ter into union with forraine Nations, and forraine States, and to be made partakers of the strength and assistance of others, it will fortifie us against the designes of forraigne Princes, there hath beene cunning councels at <hi>Rome,</hi> and in <hi>Spain,</hi> to reduce us to Pope<g ref="char:EOLhyphen"/>ry, if good councels at home, we shall be the better prepared to preserve peace and u<g ref="char:EOLhyphen"/>nion, and better respect from abroad; lastly, it will make us fit for any noble designe a<g ref="char:EOLhyphen"/>broad.</p>
+            <trailer>FINIS.</trailer>
+         </div>
+      </body>
+   </text>
+</TEI>
